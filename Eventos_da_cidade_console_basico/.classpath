@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="utilidades/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/utilidades"/>
+	<classpathentry kind="lib" path="dist/Eventos_da_cidade_Console_Basico.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

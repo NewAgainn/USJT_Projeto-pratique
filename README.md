@@ -18,4 +18,4 @@ Esse projeto estou desenvolvendo seguindo as regras a abaixo:
     - As informações dos eventos devem ser salvas em um arquivo de texto chamado events.data;​
     - Toda vez que o programa for aberto, deve carregar os eventos a partir da leitura deste arquivo; ​
 
-Pretendo refazer outro com no padrão MVC, por hora estou estudando banco de dados
+Pretendo refazer outro no padrão MVC, por hora estou estudando banco de dados
